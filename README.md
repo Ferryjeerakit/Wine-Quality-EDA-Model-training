@@ -34,8 +34,8 @@ Here is what I do with this model:
 
 
 **From using the Dataset to do analysis.We Know the impact on the quality of the wine.
-depend on
-1.total sulfur dioxide
-2.free sulfur dioxide
-3.alcohol
-the Linear Model, Decision Tree Classifier, Neighbors model, Model SVM, had the highest accuracy value of 64%, so we improved it to have more quality by adding Random Forest to use in the improvement, causing the accuracy value to increase to 71. %**</br>
+depend on**
+* total sulfur dioxide
+* free sulfur dioxide
+* alcohol
+ the Linear Model, Decision Tree Classifier, Neighbors model, Model SVM, had the highest accuracy value of 64%, so we improved it to have more quality by adding Random Forest to use in the improvement, causing the accuracy value to increase to 71. %**</br>
